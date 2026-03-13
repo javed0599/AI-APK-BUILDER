@@ -1,0 +1,5 @@
+{
+  "name": "Gemini APK Builder",
+  "description": "Generate and build real Android APKs using Gemini AI and Gradle.",
+  "requestFramePermissions": []
+}
